@@ -1,5 +1,6 @@
 # greek-symbols
 Greek symbols plugin for IntelliJ IDEA
+..
 
  | Abbr |Letter| Name    |
  |------|------|---------|
